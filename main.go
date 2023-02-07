@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ntekim/Fintech/backend/chat-service/pkg/websocket"
-	//"github.com/ntekim/Fintech/backend/chat-service/pkg/websocket"
+	"github.com/ntekim/FinChat/chat-service/pkg/websocket"
 	"net/http"
 )
 
